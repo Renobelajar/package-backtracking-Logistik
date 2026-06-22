@@ -13,7 +13,7 @@ A logistics company operates a small cargo van that must be loaded with a total 
 * Package 5: **150 kg**
 * Package 6: **170 kg**
 
-### 🎯 Objective
+### Objective
 Find **all possible combinations** of packages whose combined weights sum up to **exactly 300 kg**.
 
 ---
