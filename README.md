@@ -16,7 +16,7 @@ A logistics company operates a small cargo van that must be loaded with a total 
 ### Objective
 Find **all possible combinations** of packages whose combined weights sum up to **exactly 300 kg**.
 
-## 💡 How Backtracking Works Here
+## How Backtracking Works Here
 
 1. **Exploration (DFS):** The algorithm takes the first package (50 kg), adds it to the truck, and then moves deeply into the next packages (e.g., adding 80 kg, then 100 kg, etc.).
 2. **Bounding / Dead End:** If at any point the total weight exceeds 300 kg, the algorithm realizes it is a dead end. It immediately stops expanding that specific branch.
