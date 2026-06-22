@@ -2,7 +2,7 @@
 
 This repository contains a C++ implementation of the **Subset Sum Problem** solved using the **Backtracking** algorithm. The project demonstrates how to find exact combinations of numbers that meet a specific target constraint.
 
-## 📝 Problem Statement (Case Study)
+## Problem Statement (Case Study)
 
 A logistics company operates a small cargo van that must be loaded with a total weight of **exactly 300 kg** for optimal driving balance and safety. The transit warehouse currently holds **6 packages** with the following weights:
 
