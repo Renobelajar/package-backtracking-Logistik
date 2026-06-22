@@ -22,8 +22,6 @@ Find **all possible combinations** of packages whose combined weights sum up to 
 2. **Bounding / Dead End:** If at any point the total weight exceeds 300 kg, the algorithm realizes it is a dead end. It immediately stops expanding that specific branch.
 3. **Backtrack:** The algorithm steps back (removes the last added package) and tries the alternative decision (e.g., "What if we skip this package instead?").
 
----
-
 ## 🏆 Expected Output
 
 When you run the program, it will successfully track and print all combinations that equal exactly 300 kg:
